@@ -1,6 +1,6 @@
 # Motion_Detection_BGsub
 
-##Computer Vision Assignment
+## Computer Vision Assignment
 
 I intially took the assignment as problem for tracking people in the crowded space, read some research paper and applied Crowd Detection Analysis with help of optical flow.
 
@@ -21,13 +21,14 @@ I didn't record the output images as its pretty time consuming to wait for the c
 
 I had fun working both on BG subractor as well as the Optical Flow Analysis.
 
-##Interesting Part :
+## Interesting Part :
 
 I watched the 25 min sample and the best part was 1min : 37sec when kid shows up !!
+
 I had a pretty nostalgic experience with this kid!
 
 ![Naughty Kid](naughty_kid.png)
-
+ 
 The interesting part was that when the kid taunts the camera, then script doesn't record any changes as the previous frame is almost same as the current frame hence according the script it terminates the time for capture of moment but eventually when kid moves the again starts recording which was pretty interesting according to me as there is a discontinuity.
 
 
